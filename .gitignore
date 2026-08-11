@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.agents/
+.codex/
+*.lnk
+build/
+dist/
+runtime/
+logs/
+settings.json
+verification-data/
+verification-output/
+verification-ui.png

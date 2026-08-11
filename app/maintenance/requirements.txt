@@ -1,0 +1,4 @@
+yt-dlp[default,deno,curl-cffi]>=2026.7.4
+customtkinter>=5.2.2
+imageio-ffmpeg>=0.5.1
+pillow>=11.0
